@@ -1,2 +1,2 @@
 # qmul-rl.github.io
-QMUL RL interest group
+RL interest group at QMUL
