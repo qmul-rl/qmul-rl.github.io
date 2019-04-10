@@ -25,7 +25,7 @@ Date | Paper | Presenter
 6 March 2019 | [Deep reinforcement learning with relational inductive biases](https://openreview.net/forum?id=HkxaFoC9KQ) - Zambaldi et al. (2018) | Martin Balla
 28 Feb 2019 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) - Xu et al. (2015) | Chris Bamford
 13 Feb 2019 | [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) - Schaul et al. (2015)| Ercüment İlhan
-6 Feb 2019 | [Temporal Difference Variational Auto-Encoder](https://arxiv.org/abs/1806.03107) - Gregor et al. (2018) | Alvaro Ovalle
+6 Feb 2019 | [Temporal Difference Variational Auto-Encoder](https://arxiv.org/abs/1806.03107) - Gregor et al. (2018) | Alvaro Ovalle & Chris Bamford
 6 Feb 2019 | [An investigation of model-free planning](https://arxiv.org/abs/1901.03559) - Guez et al. (2019) | Alvaro Ovalle
 30 Jan 2019 | [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) - Andrychowicz et al. (2017) | Alvaro Ovalle
 24 Jan 2019 | [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) - Vezhnevets et al. (2016) | Martin Balla
