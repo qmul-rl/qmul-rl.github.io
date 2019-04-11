@@ -11,7 +11,7 @@ author_name: "QMUL Reinforcement Learning" # change this to your name
 
 footer: yes
 #footer_url: "https://github.com/ankitsultana"
-footer_text: "Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/the-plain">The Plain theme</a>"
+footer_text: "QMUL RL"
 
 sass:
     style: compressed
