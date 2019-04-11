@@ -7,16 +7,20 @@ markdown: kramdown
 
 tracking_id: #
 
+author_name: "QMUL Reinforcement Learning" # change this to your name
+
 footer: yes
 #footer_url: "https://github.com/ankitsultana"
-footer_text: "QMUL Reinforcement Learning"
+footer_text: "Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/the-plain">The Plain theme</a>"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
+ - name: "People"
+   link: "people"
  - name: "Contact"
    link: "contact"
