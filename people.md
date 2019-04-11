@@ -7,6 +7,22 @@
 <td align="center" valign="center">
 <br />
 <h2 align="center"> Martin Balla </h2>
+</td>
+
+<td align="center" valign="center">
+<br />
+<h2 align="center"> Chris Bamford </h2>
+</td>
+
+<td align="center" valign="center">
+<br />
+<h2 align="center"> Ercüment İlhan </h2>
+</td>
+
+<td align="center" valign="center">
+<br />
+<h2 align="center"> Alvaro Ovalle </h2>
+</td>
 
 </tr>
 
