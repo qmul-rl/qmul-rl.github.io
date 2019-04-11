@@ -1,7 +1,22 @@
-![Minion](http://octodex.github.com/images/minion.png)
+## Martin Balla
+
+![Martin Balla](martin.png)
 
 ---
 
-![AIXI](aixi.jpg)
+## Chris Bamford
 
-<img class="profile-picture" src="aixi.jpg"> 
+![Chris Bamford](bamford.png)
+
+---
+
+## Ercüment İlhan
+
+![Ercüment İlhan](ercument.jpg)
+
+---
+
+## Alvaro Ovalle
+
+![Alvaro Ovalle](alvaro.jpg)
+
