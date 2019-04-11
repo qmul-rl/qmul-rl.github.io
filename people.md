@@ -1,22 +1,21 @@
 ## Martin Balla
 
-![Martin Balla](martin.png)
+<img src="martin.png" width="200">
 
 ---
 
 ## Chris Bamford
 
-![Chris Bamford](bamford.png)
+<img src="bamford.jpg" width="200">
 
 ---
 
 ## Ercüment İlhan
 
-![Ercüment İlhan](ercument.jpg)
+<img src="ercument.jpg" width="200">
 
 ---
 
 ## Alvaro Ovalle
 
-![Alvaro Ovalle](alvaro.jpg)
-
+<img src="alvaro.jpg" width="200">
