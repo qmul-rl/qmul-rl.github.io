@@ -5,10 +5,15 @@
 <tr>
 
 <td align="center" valign="center">
-<h2 align="center"> Martin Balla </h2>
 <br />
-<img style="border-radius: 8px;width: 200px;display: block; margin: 0 auto;" src="/martin.png" alt="archive footage" />
+<h2 align="center"> Martin Balla </h2>
 
+</tr>
+
+<tr>
+
+<td align="center" valign="center">
+<img style="border-radius: 8px;width: 200px;display: block; margin: 0 auto;" src="/martin.png" alt="archive footage" />
 </td>
 
 <td align="center" valign="center">
