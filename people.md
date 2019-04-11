@@ -17,7 +17,7 @@
 <td align="center" valign="center">
 <img style="border-radius: 8px;width: 200px;display: block; margin: 0 auto;" src="/ercument.jpg" alt="archive footage" />
 <br />
-## Ercüment İlhan
+<h2> Ercüment İlhan </h2>
 </td>
 
 <td align="center" valign="center">
