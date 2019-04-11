@@ -13,10 +13,10 @@
 
 ## Ercüment İlhan
 
-![](ercument.jpg){:width="80px"}
+![](ercument.jpg | width=80)
 
 ---
 
 ## Alvaro Ovalle
 
-![](alvaro.jpg){:width="100px"}
+![](alvaro.jpg | width=10)
