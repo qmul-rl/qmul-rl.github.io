@@ -10,7 +10,7 @@ RL@QMUL
 
 ## Research Interest
 
-RL
+Decision making and the action-perception loop with a specific interest in sparse rewards problems, macro-actions, multi-agent RL and the combinational action problem.
 
 ## Reading Group
 
@@ -19,6 +19,7 @@ Welcome to the *Reinforcement Learning reading group* at **QMUL**.
 
 Date | Paper | Presenter
 -----|-------|--------
+17 April 2019 | [Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/abs/1901.09018) - Du et al. (2019) | Chris Bamford
 10 April 2019 | [Distilling Policy Distillation](https://arxiv.org/abs/1902.02186) - Czarnecki et al. (2019) | Martin Balla
 3 April 2019 | [Deep Reinforcement Learning that Matter](https://arxiv.org/abs/1709.06560) - Henderson et al. (2017) | Ercüment İlhan
 21 March 2019 | [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407) - Sukhbaatar et al. (2017) | Alvaro Ovalle
