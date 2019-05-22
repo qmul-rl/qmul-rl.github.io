@@ -19,6 +19,7 @@ Welcome to the *Reinforcement Learning reading group* at **QMUL**.
 
 Date | Paper | Presenter
 -----|-------|--------
+1 May 2019 | [World Discovery Models](https://arxiv.org/abs/1902.07685) - Azar et al. (2019) | Alvaro Ovalle
 17 April 2019 | [Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/abs/1901.09018) - Du et al. (2019) | Chris Bamford
 10 April 2019 | [Distilling Policy Distillation](https://arxiv.org/abs/1902.02186) - Czarnecki et al. (2019) | Martin Balla
 3 April 2019 | [Deep Reinforcement Learning that Matter](https://arxiv.org/abs/1709.06560) - Henderson et al. (2017) | Ercüment İlhan
