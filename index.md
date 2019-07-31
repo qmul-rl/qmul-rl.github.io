@@ -19,6 +19,7 @@ Welcome to the *Reinforcement Learning reading group* at **QMUL**.
 
 Date | Paper | Presenter
 -----|-------|--------
+1 August 2019 | [Shaping belief states with generative environment models for RL](https://arxiv.org/abs/1906.09237) | Chris Bamford
 4 July 2019 | [Learning to act by predicting the future](https://arxiv.org/abs/1611.01779) - Dosovitskiy & Koltun (2016) | Martin Balla
 27 June 2019 | [Imitating latent policies from observation](https://arxiv.org/abs/1805.07914) - Edwards et al. (2018) | Ercüment İlhan
 1 May 2019 | [World Discovery Models](https://arxiv.org/abs/1902.07685) - Azar et al. (2019) | Alvaro Ovalle
