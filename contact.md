@@ -7,4 +7,6 @@ is_contact: true
 
 ## Contact
 
-* [Game AI](http://gameai.eecs.qmul.ac.uk)
+* [QMUL Game AI Research Group](https://gaigresearch.github.io)
+* [QMUL Game AI Research Group (older version)](http://gameai.eecs.qmul.ac.uk)
+* [Webmster - Alvaro](mailto:a.ovalle@qmul.ac.uk)
