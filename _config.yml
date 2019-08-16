@@ -8,6 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 author_name: "QMUL Reinforcement Learning" # change this to your name
+author: "Alvaro Ovalle"
 
 footer: yes
 #footer_url: "https://github.com/ankitsultana"
