@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="aixi.jpg">
+<img class="profile-picture" src="joscha-bach.png">
 
 RL@QMUL
 
