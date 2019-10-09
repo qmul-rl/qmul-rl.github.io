@@ -14,11 +14,12 @@ Decision making and the action-perception loop with a specific interest in spars
 
 ## Reading Group
 
-Welcome to the *Reinforcement Learning reading group* at **QMUL**.
+Welcome to the *Reinforcement Learning reading group* at **Queen Mary University of London**.
 
 
 Date | Paper | Presenter
 -----|-------|--------
+09 October 2019 | [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621) - Osband et al. (2016) | Ercüment İlhan
 28 August 2019 | [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) - Hafner et al. (2018) | Alvaro Ovalle
 16 August 2019 | [Shaping belief states with generative environment models for RL](https://arxiv.org/abs/1906.09237) - Gregor et al. (2019) | Chris Bamford
 4 July 2019 | [Learning to act by predicting the future](https://arxiv.org/abs/1611.01779) - Dosovitskiy & Koltun (2016) | Martin Balla
