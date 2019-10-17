@@ -19,6 +19,7 @@ Welcome to the *Reinforcement Learning reading group* at **Queen Mary University
 
 Date | Paper | Presenter
 -----|-------|--------
+17 October 2019 | [Diversity is all you need](https://arxiv.org/abs/1802.06070) - Eysenbach et al. (2018) | Martin Balla
 09 October 2019 | [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621) - Osband et al. (2016) | Ercüment İlhan
 28 August 2019 | [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) - Hafner et al. (2018) | Alvaro Ovalle
 16 August 2019 | [Shaping belief states with generative environment models for RL](https://arxiv.org/abs/1906.09237) - Gregor et al. (2019) | Chris Bamford
