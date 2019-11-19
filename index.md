@@ -19,8 +19,7 @@ Welcome to the *Reinforcement Learning reading group* at **Queen Mary University
 
 Date | Paper | Presenter
 -----|-------|--------
-21 November 2019 | [QXplore: Q-learning Exploration by Maximizing Temporal Difference Error
-]https://arxiv.org/abs/1906.08189) - Simmons-Edler et al. (2019) | Ercüment İlhan
+21 November 2019 | [QXplore: Q-learning Exploration by Maximizing Temporal Difference Error](https://arxiv.org/abs/1906.08189) - Simmons-Edler et al. (2019) | Ercüment İlhan
 7 November 2019 | [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z) - Vinyals et al. (2019) | Martin Balla
 31 October 2019 | [Unsupervised Video Object Segmentation for Deep Reinforcement Learning](https://arxiv.org/abs/1805.07780) - Goel et al. (2018) | Alvaro Ovalle
 24 October 2019 | [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113) - OpenAI et al. (2019) | Chris Bamford
