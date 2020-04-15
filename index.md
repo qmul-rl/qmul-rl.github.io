@@ -19,6 +19,10 @@ Welcome to the *Reinforcement Learning reading group* at **Queen Mary University
 
 Date | Paper | Presenter
 -----|-------|--------
+4 February 2020 | [Empowerment-driven Exploration using Mutual Information Estimation](https://arxiv.org/abs/1810.05533) - Kumar (2018) | Alvaro Ovalle & Martin Balla
+28 January 2020 | [MINE: Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) - Belghazi et al. (2018) | Alvaro Ovalle & Martin Balla
+14 January 2020 | [The Journey is the Reward: Unsupervised Learning of Influential Trajectories](https://arxiv.org/abs/1905.09334) - Binas et al. (2019) | Alvaro Ovalle & Martin Balla
+8 January 2020 | [Empowerment -- an introduction](https://arxiv.org/abs/1310.1863) - Salge et al. (2013) | Alvaro Ovalle & Martin Balla
 21 November 2019 | [QXplore: Q-learning Exploration by Maximizing Temporal Difference Error](https://arxiv.org/abs/1906.08189) - Simmons-Edler et al. (2019) | Ercüment İlhan
 7 November 2019 | [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z) - Vinyals et al. (2019) | Martin Balla
 31 October 2019 | [Unsupervised Video Object Segmentation for Deep Reinforcement Learning](https://arxiv.org/abs/1805.07780) - Goel et al. (2018) | Alvaro Ovalle
