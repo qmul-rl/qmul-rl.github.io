@@ -23,5 +23,7 @@ nav:
    link: "/"
  - name: "People"
    link: "people"
+ - name: "Publications"
+   link: "publications"
  - name: "Contact"
    link: "contact"
