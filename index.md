@@ -2,11 +2,10 @@
 layout: default
 ---
 
-## About
+# Reinforcement Learning at QMUL
 
 <img class="profile-picture" src="joscha-bach.png">
 
-RL@QMUL
 
 ## Research Interest
 
@@ -14,7 +13,7 @@ Decision making and the action-perception loop with a specific interest in spars
 
 ## Reading Group
 
-Welcome to the *Reinforcement Learning reading group* at **Queen Mary University of London**.
+Welcome to the *Reinforcement Learning reading group* at the **Queen Mary University of London**.
 
 
 Date | Paper | Presenter
