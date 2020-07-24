@@ -9,7 +9,7 @@ layout: default
 
 ## Research Interest
 
-Decision making and the action-perception loop with a specific interest in sparse rewards problems, macro-actions, multi-agent RL and the combinational action problem.
+Learning, inference and behaviour in the perception-action loop with a specific interest in model-based RL, sparse rewards problems and action advising.
 
 ## Reading Group
 
